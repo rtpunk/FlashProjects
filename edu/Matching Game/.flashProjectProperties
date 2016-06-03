@@ -1,0 +1,28 @@
+<projectDescription>
+  <id>1328206754798</id>
+  <name>Game GUI</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///C|/Users/jeffw/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///C|/Users/jeffw/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp/>
+  <rootURI>file:///C|/Users/jeffw/AEC/Game GUI 2-21-12/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false">
+    <uri label="GUITest.fla">file:///C|/Users/jeffw/AEC/Game GUI/GUITest.fla</uri>
+  </compileList>
+  <recentFiles editable="false">
+    <uri label="GameController.as">file:///C|/Users/jeffw/AEC/Game GUI 2-21-12/game/GameController.as</uri>
+    <uri label="GameModel.as">file:///C|/Users/jeffw/AEC/Game GUI 2-21-12/game/GameModel.as</uri>
+    <uri label="GUITest.as">file:///C|/Users/jeffw/AEC/Game GUI 2-21-12/GUITest.as</uri>
+    <uri label="SoundModel.as">file:///C|/Users/jeffw/AEC/Game GUI 2-21-12/sounds/SoundModel.as</uri>
+    <uri label="GameSound.as">file:///C|/Users/jeffw/AEC/Game GUI 2-21-12/sounds/GameSound.as</uri>
+    <uri label="GameEvent.as">file:///C|/Users/jeffw/AEC/Game GUI 2-21-12/gameEvent/GameEvent.as</uri>
+    <uri label="ButtonController.as">file:///C|/Users/jeffw/AEC/Game GUI 2-21-12/buttons/ButtonController.as</uri>
+    <uri label="AuthortimeSharedAssets.fla">file:///C|/Users/jeffw/AEC/Game GUI 2-21-12/AuthortimeSharedAssets.fla</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>
